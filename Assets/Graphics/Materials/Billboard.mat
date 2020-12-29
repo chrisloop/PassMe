@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Billboard
+  m_Shader: {fileID: -6465566751694194690, guid: 81abfe610c34b4b4695e3026460e14ea, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Layer_5146A7FE:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Layer_E936AFDB:
+        m_Texture: {fileID: 2800000, guid: 6d65d37ebc3f5ea4f9762928b70dbef6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_13b2d9f9058b45d49a3c985d711c7710:
+        m_Texture: {fileID: 2800000, guid: 6c66d695d1e6bc34a8a890323faa4733, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_0f244ef6617c40b6842c399b905dc242_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 6c66d695d1e6bc34a8a890323faa4733, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_a4f42de3e8ad45b8a9bcd2fb22bf67d2: 4000
+    - Vector1_d897eb1aee7141209ea3c9377e120b84: 15
+    - Vector1_f08720d2a72d472da07d61d1f045156f: 16
+    m_Colors: []
+  m_BuildTextureStacks: []

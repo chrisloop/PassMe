@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Circuit
+  m_Shader: {fileID: -6465566751694194690, guid: bbd7d5ecf663f3f45a6e5762d48f2222, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_0860e2ae543f40bbb82fd9d66497ce42_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 230aec6ed3ad7fd40860962183724c0f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_42c435b50fe04e9999d4b85789d0f75d_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 6d65d37ebc3f5ea4f9762928b70dbef6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_5753b58f069c4f978e2153c18dd25271: 0.427
+    - Vector1_ae9a4d17db864d62ad67c57b6f7c50c3: 0.517
+    - Vector1_eef35c5216124561993ab1f2a3796549: 6
+    m_Colors: []
+  m_BuildTextureStacks: []
